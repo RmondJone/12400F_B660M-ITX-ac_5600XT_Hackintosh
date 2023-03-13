@@ -4,7 +4,7 @@
 --|--
 CPU|i5 12400F
 显卡|ASUS TUF 5600XT
-主板|华擎B660M-ITX
+主板|华擎B660M-ITX/ac
 硬盘|WD_BLACK SN770 1T SSD / 希捷1T 机械硬盘
 内存|海盗船DDR4 8GB*2
 声卡|板载ALC897
