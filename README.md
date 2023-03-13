@@ -34,3 +34,13 @@ EFI地址：[https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh]
 
 ### Tip
 我做了USB定制，可能你的主板和我定制的端口不一样。 如果进不了系统删除Kexts里的USBPorts.kext。
+
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/191678721280_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/191678721280_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/171678721278_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/171678721278_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/181678721279_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/181678721279_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/161678721277_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/161678721277_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/151678721275_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/151678721275_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/141678721274_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/141678721274_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/131678721273_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/131678721273_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/121678721272_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/121678721272_.pic.jpg?raw=true)
+![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/111678721271_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/111678721271_.pic.jpg?raw=true)
