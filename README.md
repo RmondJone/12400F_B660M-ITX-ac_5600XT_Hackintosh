@@ -26,8 +26,26 @@ MacOS |13.1
 * CPU、温度传感器正常
 * CPU变频正常
 * USB已定制
+* 睡眠完美
 
 已知问题后续会持续修复，敬请期待！
+
+### 三、BIOS设置
+
+BIOS选项|开启|关闭
+--|--|--
+Fast Boot|❌|✅
+安全启动|❌|✅
+闪速启动|❌|✅
+Serial/COM Port|❌|✅
+VT-d|❌|✅
+CSM|❌|✅
+Intel Platform Trust|❌|✅
+CFG Lock|❌|✅
+挂起到内存|❌|✅
+深度睡眠|S4-S5中启用|❌
+EHCI/XHCI Hand-off|✅|❌
+SATA Mode|AHCI|❌
 
 ### GitHub
 EFI地址：[https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh)
