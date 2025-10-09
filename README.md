@@ -46,6 +46,7 @@ CFG Lock|❌|✅
 深度睡眠|❌|✅
 EHCI/XHCI Hand-off|✅|❌
 Intel Platform Trust|❌|✅
+Security Device Support|❌|✅
 C.A.M|❌|✅
 SATA Mode|AHCI|❌
 
