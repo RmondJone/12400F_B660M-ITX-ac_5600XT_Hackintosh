@@ -43,8 +43,10 @@ CSM|❌|✅
 Intel Platform Trust|❌|✅
 CFG Lock|❌|✅
 挂起到内存|❌|✅
-深度睡眠|S4-S5中启用|❌
+深度睡眠|❌|✅
 EHCI/XHCI Hand-off|✅|❌
+Intel Platform Trust|❌|✅
+C.A.M|❌|✅
 SATA Mode|AHCI|❌
 
 ### GitHub
