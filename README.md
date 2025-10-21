@@ -56,6 +56,8 @@ EFI地址：[https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh]
 ### Tip
 我做了USB定制，可能你的主板和我定制的端口不一样。 如果进不了系统删除Kexts里的USBPorts.kext。
 
+如果遇到黑屏闪退，检查你的SIP是否已经关闭，OC引导页按空格键查看。
+
 ![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/191678721280_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/191678721280_.pic.jpg?raw=true)
 ![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/171678721278_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/171678721278_.pic.jpg?raw=true)
 ![https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/181678721279_.pic.jpg?raw=true](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh/blob/main/images/181678721279_.pic.jpg?raw=true)
