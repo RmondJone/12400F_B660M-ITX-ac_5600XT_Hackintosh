@@ -14,21 +14,23 @@ CPU|i5 12400F
 
 环境|版本
 --|--
-OpenCore|0.8.8
-MacOS |13.1
+OpenCore|1.0.5
+MacOS |Tahoe 26.1
 
 已驱动：
 
 * 独显完美
-* 声卡完美
+* 声卡完美，需要使用OCLP-MOD进行补丁
 * 网卡：有线完美
 * SIP关闭
 * CPU、温度传感器正常
 * CPU变频正常
 * USB已定制
 * 睡眠完美
+* WIFI完美，需要配合HeliPort使用
 
-已知问题后续会持续修复，敬请期待！
+已知问题后续会持续修复，敬请期待！需要用的软件我会放在Release中，自行下载！！
+
 
 ### 三、BIOS设置
 
@@ -54,7 +56,11 @@ SATA Mode|AHCI|❌
 EFI地址：[https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh](https://github.com/RmondJone/12400F_B660M-ITX-ac_5600XT_Hackintosh)
 
 ### Tip
-我做了USB定制，可能你的主板和我定制的端口不一样。 如果进不了系统删除Kexts里的USBPorts.kext。
+安装系统时，不要打开文件保管箱开关！！
+
+安装系统时，不要打开文件保管箱开关！！
+
+安装系统时，不要打开文件保管箱开关！！
 
 如果遇到黑屏闪退，检查你的SIP是否已经关闭，OC引导页按空格键查看。
 
